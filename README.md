@@ -10,3 +10,7 @@ Note : number provided must only contain digit(s).
 
 - GMP : https://gmplib.org
 - MPIR : https://github.com/wbhart/mpir
+
+## Build with external mpir.dll
+
+[![CMake Windows Build](https://github.com/JL2014/dec2bin/actions/workflows/cmake.yml/badge.svg?branch=main)](https://github.com/JL2014/dec2bin/actions/workflows/cmake.yml)
